@@ -1,2 +1,2 @@
 for i in range(5):
-    print(i," Akash ") 
+    print(i+1," Akash ")
